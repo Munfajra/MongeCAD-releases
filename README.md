@@ -1,8 +1,8 @@
 # MongeCAD – ke stažení
 
-**MongeCAD** je desktopová CAD aplikace pro deskriptivní geometrii – Mongeovo promítání (půdorys + nárys), axonometrie, kótované promítání a rýsování v rovině.
+**MongeCAD** je desktopová CAD aplikace pro deskriptivní geometrii – Umožňuje rýsování v Mongeově promítání, kótovaném promítání, axonometrii a v rovině. 
 
-Toto repo slouží čistě k distribuci instalátorů. Aktuální verzi najdete vždy v sekci **[Releases](../../releases/latest)**.
+Tento repozitář slouží čistě k distribuci instalátorů. Aktuální verzi najdete vždy v sekci **[Releases](../../releases/latest)**.
 
 ## Stažení a instalace
 
@@ -32,8 +32,7 @@ unzip MongeCAD-<verze>-portable.zip
 ## Požadavky
 
 - 64bit systém (Windows 10/11, Linux x86_64)
-- Grafická karta s podporou OpenGL 3.3+ (pro 3D vizualizaci)
-- Java není potřeba – běhové prostředí je součástí balíčku
+- Grafická karta s podporou OpenGL 3.3+ 
 
 ---
 
