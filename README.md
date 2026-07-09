@@ -5,8 +5,8 @@
 
   Desktopová CAD aplikace pro deskriptivní geometrii
 
-  [![Latest release](https://img.shields.io/github/v/release/Munfajra/MongeCAD---releases?label=verze)](../../releases/latest)
-  [![Downloads](https://img.shields.io/github/downloads/Munfajra/MongeCAD---releases/total)](../../releases)
+  [![Latest release](https://img.shields.io/github/v/release/Munfajra/MongeCAD-releases?label=verze)](../../releases/latest)
+  [![Downloads](https://img.shields.io/github/downloads/Munfajra/MongeCAD-releases/total)](../../releases)
 </div>
 
 ---
@@ -21,7 +21,7 @@ Tento repozitář slouží čistě k distribuci instalátorů. Aktuální verzi 
 
 Stáhněte instalátor `MongeCAD-<verze>-setup.exe` z posledního release a spusťte ho.
 
-> Windows instalátor bude doplněn do aktuálního release.
+Alternativně stáhněte portable verzi `MongeCAD-<verze>-portable_windows.zip`, rozbalte a spusťte `MongeCAD\bin\MongeCAD.exe`.
 
 ### Linux (Debian / Ubuntu)
 
@@ -35,10 +35,10 @@ Aplikaci pak spustíte příkazem `mongecad` nebo z nabídky aplikací.
 
 ### Linux (portable)
 
-Alternativně stáhněte `MongeCAD-<verze>-portable.zip`, rozbalte a spusťte:
+Alternativně stáhněte `MongeCAD-<verze>-portable_linux.zip`, rozbalte a spusťte:
 
 ```bash
-unzip MongeCAD-<verze>-portable.zip
+unzip MongeCAD-<verze>-portable_linux.zip
 ./MongeCAD/bin/MongeCAD
 ```
 
