@@ -1,0 +1,147 @@
+LICENČNÍ UJEDNÁNÍ PRO APLIKACI MONGECAD
+
+Autor a poskytovatel licence: Jiří Hlaváček
+Kontakt: supportmongecad@gmail.com, https://www.mongecad.cz
+
+Toto licenční ujednání upravuje používání aplikace MongeCAD (dále jen „Program“).
+Instalací, spuštěním nebo používáním Programu vyjadřujete souhlas s tímto ujednáním.
+
+
+1. Bezplatné použití
+
+Program je poskytován zdarma. Uživatel může Program bezplatně instalovat, spouštět
+a používat pro osobní, školní, výukové i nekomerční účely. Bezplatné je i použití
+ve škole nebo jiné vzdělávací instituci.
+
+
+2. Bezplatné šíření
+
+Program je možné bezplatně dále šířit, kopírovat a předávat dalším osobám, pokud jsou
+splněny následující podmínky:
+
+- Program je šířen v nezměněné podobě, zejména jako původní instalační balíček nebo
+  archiv, včetně souborů LICENSE, THIRD-PARTY-NOTICES.md a složky legal/.
+- Není odstraňováno ani měněno označení autora, název Programu, informace o verzi ani
+  toto licenční ujednání.
+- Program není vydáván za dílo jiné osoby.
+- Program není prodáván jako samostatný produkt ani používán způsobem, který by mohl
+  vyvolat dojem, že třetí osoba je jeho autorem nebo oficiálním distributorem.
+
+Přiměřená úhrada nákladů na nosič nebo přenos dat se za prodej Programu nepovažuje.
+
+
+3. Úpravy a zpětný překlad
+
+Bez výslovného souhlasu autora není dovoleno Program upravovat, rozebírat, dekompilovat,
+zpětně analyzovat, vytvářet z něj odvozené verze ani takové upravené verze dále šířit.
+
+Toto omezení se nevztahuje na:
+
+a) běžné používání Programu, ukládání vlastních souborů vytvořených v Programu ani
+   sdílení těchto uživatelských výstupů;
+
+b) komponenty třetích stran obsažené v Programu (čl. 5) – ty se řídí výhradně svými
+   vlastními licencemi, které mohou úpravy, zpětný překlad i další šíření výslovně
+   dovolovat;
+
+c) jednání, které uživateli umožňuje kogentní ustanovení právních předpisů, zejména
+   právo na rozmnožování a překlad kódu za účelem dosažení interoperability podle
+   § 66 odst. 1 písm. e) zákona č. 121/2000 Sb., o právu autorském, a podle čl. 6
+   směrnice 2009/24/ES, a dále právo na pořízení záložní rozmnoženiny a na zkoumání
+   funkčnosti Programu podle § 66 odst. 1 písm. b) a d) téhož zákona.
+
+
+4. Autorská práva
+
+Program a jeho součásti jsou chráněny autorským právem. Veškerá práva, která nejsou
+tímto ujednáním výslovně udělena uživateli, zůstávají autorovi Programu.
+
+Název MongeCAD, grafické prvky, ikona aplikace a další identifikační prvky Programu
+nesmí být používány způsobem, který by mohl klamat uživatele nebo vyvolat dojem
+oficiální podpory, spolupráce nebo schválení autorem, pokud takový vztah neexistuje.
+
+
+5. Komponenty třetích stran
+
+Program obsahuje a šíří knihovny, nástroje, písma, ikony a běhové prostředí Javy
+vytvořené třetími stranami. Jejich úplný seznam včetně licencí je uveden v souboru
+THIRD-PARTY-NOTICES.md; úplná znění licencí jsou ve složce legal/licenses/ (v instalaci
+aplikace ve složce legal/) a ve složce lib/runtime/legal/.
+
+Tyto komponenty se řídí vlastními licenčními podmínkami. V rozsahu, v jakém se licence
+třetí strany vztahuje na příslušnou komponentu, má tato licence přednost před tímto
+ujednáním; žádné ustanovení tohoto ujednání neomezuje práva, která uživateli přiznává
+licence třetí strany.
+
+Součástí instalace je běhové prostředí Javy (Eclipse Temurin / OpenJDK) šířené pod
+licencí GNU General Public License verze 2 s výjimkou Classpath Exception. Odpovídající
+zdrojový kód je dostupný na https://github.com/adoptium/temurin21-binaries a
+https://github.com/openjdk/jdk21u; autor jej na vyžádání poskytne i jiným způsobem
+(kontakt výše).
+
+
+6. Kontrola aktualizací a osobní údaje
+
+Program po spuštění ověřuje dostupnost novější verze stažením souboru
+https://mongecad.cz/version.json. Při tomto dotazu se na server přenáší pouze IP adresa
+zařízení a označení verze Programu v hlavičce User-Agent; žádné jiné údaje o uživateli
+ani obsah jeho výkresů Program neodesílá.
+
+Program neobsahuje analytické ani telemetrické funkce. Výkresy, nastavení, automatické
+zálohy a protokoly se ukládají výhradně na zařízení uživatele.
+
+
+7. Poskytování bez záruky
+
+Program je poskytován „tak, jak je“. Autor neposkytuje žádnou výslovnou ani předpokládanou
+záruku, zejména záruku bezchybné funkce, vhodnosti pro konkrétní účel, nepřetržité
+dostupnosti nebo kompatibility s konkrétním systémem.
+
+Autor neručí za správnost výsledků, výpočtů, konstrukcí, exportů ani jiných výstupů
+vytvořených Programem. Uživatel je povinen si důležité výsledky ověřit samostatně.
+
+
+8. Omezení odpovědnosti
+
+V maximálním rozsahu, který připouštějí právní předpisy, autor nenese odpovědnost za
+škody, ztráty dat, ušlý zisk, přerušení práce, nesprávné výstupy ani jiné přímé či
+nepřímé následky vzniklé používáním, nemožností používat nebo šířením Programu.
+
+Tímto ujednáním se nevylučuje ani neomezuje odpovědnost za újmu způsobenou úmyslně nebo
+z hrubé nedbalosti, odpovědnost za újmu na přirozených právech člověka ani jiná práva,
+kterých se podle právních předpisů nelze platně vzdát.
+
+Uživatel používá Program na vlastní odpovědnost.
+
+
+9. Aktualizace a změny
+
+Autor může Program dále vyvíjet, měnit, opravovat nebo ukončit jeho distribuci bez
+předchozího upozornění. Novější verze Programu mohou být poskytovány za stejných nebo
+odlišných podmínek; na již nainstalované verze se vztahuje ujednání dodané s nimi.
+
+
+10. Ukončení oprávnění
+
+Pokud uživatel poruší toto licenční ujednání, zaniká mu oprávnění Program používat
+a šířit. V takovém případě je povinen přestat Program používat a odstranit jeho kopie,
+pokud autor nerozhodne jinak. Ukončením oprávnění nezanikají práva udělená licencemi
+třetích stran podle čl. 5.
+
+
+11. Závěrečná ustanovení
+
+Toto ujednání a vztahy z něj vzniklé se řídí právem České republiky.
+
+Pokud je některé ustanovení neplatné nebo nevymahatelné, nemá to vliv na platnost
+ostatních ustanovení; neplatné ustanovení se nahradí ustanovením, které se svým smyslem
+nejvíce blíží ustanovení původnímu.
+
+MongeCAD je bezplatný software určený zejména pro podporu výuky, tvorbu geometrických
+konstrukcí a práci s průměty. Program smí být zdarma používán a šířen za podmínek
+uvedených výše.
+
+
+Copyright (c) 2024–2026 Jiří Hlaváček. Všechna práva vyhrazena.
+
+Datum poslední úpravy: 30. 7. 2026

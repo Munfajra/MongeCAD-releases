@@ -47,6 +47,19 @@ unzip MongeCAD-<verze>-portable_linux.zip
 - 64bit systém (Windows 10/11, Linux x86_64)
 - Grafická karta s podporou OpenGL 3.3+
 
+## Licence
+
+MongeCAD je bezplatný software. Smíte jej zdarma používat pro osobní, školní, výukové
+i nekomerční účely a bezplatně jej dále šířit v nezměněné podobě. Úplné podmínky jsou
+v souboru [LICENSE](LICENSE).
+
+Aplikace obsahuje knihovny, písma a ikony třetích stran, které se řídí vlastními
+licencemi (Apache-2.0, MIT, BSD-3-Clause, ISC, SIL OFL 1.1, GUST Font License,
+Bitstream Vera) a běhové prostředí OpenJDK pod licencí GPL-2.0 s Classpath Exception.
+Úplný přehled je v souboru [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md), znění
+licencí ve složce [legal/licenses/](legal/licenses). Tytéž soubory jsou součástí
+každého instalátoru.
+
 ---
 
-<div align="center">© Jiří Hlaváček</div>
+<div align="center">© 2024–2026 Jiří Hlaváček</div>
